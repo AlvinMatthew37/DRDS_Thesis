@@ -1,0 +1,1 @@
+C:\Users\alvin\AndroidStudioProjects\DRDiagnosisSystem\OpenCV\build\intermediates\cxx\RelWithDebInfo\5x5xrey5\obj\x86

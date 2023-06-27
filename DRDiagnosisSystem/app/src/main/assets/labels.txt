@@ -1,0 +1,5 @@
+No DR
+Mild DR
+Moderate DR
+Severe DR
+Proliferative DR

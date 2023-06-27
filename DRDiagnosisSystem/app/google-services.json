@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406841958455",
+    "project_id": "dr-diagnosis-system",
+    "storage_bucket": "dr-diagnosis-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406841958455:android:eb8f91ee1f474dbd851fb2",
+        "android_client_info": {
+          "package_name": "com.example.drdiagnosissystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406841958455-pq7u4c54kh7cooqc4nook2ogfqf7s3ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1asijWN-r_yfS_8hZx6uzv9TC7FN6PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406841958455-pq7u4c54kh7cooqc4nook2ogfqf7s3ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
